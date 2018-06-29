@@ -238,7 +238,7 @@
 - 벨만 방정식은 무엇일까요? 수식으로도 표현해주세요
 - 강화학습에서 다이나믹 프로그래밍은 어떤 의미를 가질까요? 한계점은 무엇이 있을까요?
 - 몬테카를로 근사는 무엇일까요? 가치함수를 추정할 때 어떻게 사용할까요?
-- Value-based Reinfrocement Learning과 Policy based REinfrocement Learning는 무엇이고 어떤 관계를 가질까요?
+- Value-based Reinfrocement Learning과 Policy based Reinfrocement Learning는 무엇이고 어떤 관계를 가질까요?
 - 강화학습이 어려운 이유는 무엇일까요? 그것을 어떤 방식으로 해결할 수 있을까요?
 - 강화학습을 사용해 테트리스에서 고득점을 얻는 프로그램을 만드려고 합니다. 어떻게 만들어야 할까요?
 
