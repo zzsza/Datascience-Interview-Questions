@@ -1,5 +1,5 @@
 # Datascience-Interview-Questions
-- [![HitCount](http://hits.dwyl.io/zzsza/Datascience-Interview-Questions.svg)](http://hits.dwyl.io/zzsza/Datascience-Interview-Questions)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza%2FDatascience-Interview-Questions)](https://hits.seeyoufarm.com)
 - Made by [Seongyun Byeon](https://github.com/zzsza)
 - Last modified date : 18.12.2
 
